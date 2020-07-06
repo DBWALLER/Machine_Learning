@@ -1,6 +1,4 @@
-### Response  Model:  A  Binary  Classification 
-
-### Problem 
+### Response  Model:  A  Binary  Classification Problem 
 
 ### Abstract   
 A  response  model  can  provide  a  significant  boost  to  the  efficiency  of  a  marketing 
