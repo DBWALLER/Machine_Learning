@@ -1,6 +1,8 @@
-Source:: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 #Credit card Fraud detection 
+
+Dataset Source: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 
 ##Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
@@ -15,3 +17,4 @@ It contains only numerical input variables which are the result of a PCA transfo
 Identify fraudulent credit card transactions.
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
+
