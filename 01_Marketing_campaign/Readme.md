@@ -68,6 +68,8 @@ next marketing campaign.
 ### Results
 ### Economic Evaluation of Prediction strategy deploy
 
+Labels:  0: no sale / 1: sale done
+
  <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/86951321-bdc65b00-c127-11ea-9d22-3df1b74f869f.png">
  
 
