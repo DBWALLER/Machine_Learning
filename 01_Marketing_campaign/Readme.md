@@ -70,7 +70,7 @@ next marketing campaign.
 
 Labels:  0: no sale / 1: sale done
 
- <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/86951321-bdc65b00-c127-11ea-9d22-3df1b74f869f.png">
+ <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/87492868-eebff780-c621-11ea-9380-66eeb180a4cf.png">
  
 
 
