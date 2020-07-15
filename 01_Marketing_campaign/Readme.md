@@ -65,7 +65,7 @@ next marketing campaign.
 
 ### ____________________________________________________________________________________
 
-### Results
+### Extra Analysis
 ### Economic Evaluation of Prediction strategy deploy
 
 Labels:  0: no sale / 1: sale done
